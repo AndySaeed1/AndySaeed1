@@ -1,12 +1,28 @@
-- 👋 Hi, I’m @AndySaeed1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Hi, I’m @Andy Saeed
 
-<!---
-AndySaeed1/AndySaeed1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔧 Dynamics 365 Consultant | Power Platform Enthusiast | Cloud Transformation Advocate
+
+## 👀 I’m interested in
+
+🔹 Dynamics 365 CRM & F&O Customization  
+🔹 Power Apps (Canvas & Model-Driven)  
+🔹 Power Automate Workflows & Integrations  
+🔹 Dataverse Architecture & Security  
+🔹 Azure Logic Apps, Functions, and DevOps in D365 Projects
+
+## 🌱 I’m currently learning
+
+📌 AI Builder and Virtual Agents  
+📌 Advanced PCF Controls Development  
+📌 Dynamics 365 Business Central Integration  
+📌 ALM & CI/CD Pipelines for D365 Solutions
+
+## 💞️ I’m looking to collaborate on
+
+✅ End-to-end Dynamics 365 Implementations  
+✅ Power Platform Accelerators  
+✅ Automation and Integration Projects using Microsoft Ecosystem
+
+## 📫 Contact
+
+📧 Email: andysaeed251@gmail.com
